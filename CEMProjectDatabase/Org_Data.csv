@@ -1,0 +1,331 @@
+Organizations,OrgName,OrgType,OrgCounty,OrgState
+,Achievement,Public,Shelby,TN
+,Alamo City,Public,Crockett,TN
+,Alcoa City,Public,Blount,TN
+,Alvin C York,Public,Fentress,TN
+,Anderson,Public,Anderson,TN
+,Arlington Community,Public,Shelby,TN
+,Athens City,Public,McMinn,TN
+,Bartlett Municipal,Public,Shelby,TN
+,Bedford,Public,Bedford,TN
+,Bells City,Public,Crockett,TN
+,Benton,Public,Benton,TN
+,Bledsoe,Public,Bledsoe,TN
+,Blount,Public,Blount,TN
+,Bradford Special,Public,Gibson,TN
+,Bradley,Public,Bradley,TN
+,Bristol City,Public,Sullivan,TN
+,Campbell,Public,Campbell,TN
+,Cannon,Public,Cannon,TN
+,Carter,Public,Carter,TN
+,Carroll,Public,Carroll,TN
+,Cheatham,Public,Cheatham,TN
+,Chester,Public,Chester,TN
+,Claiborne,Public,Claiborne,TN
+,Clarksville-Montgomery,Public,Montgomery,TN
+,Clay,Public,Clay,TN
+,Cleveland City,Public,Bradley,TN
+,Clinton City,Public,Anderson,TN
+,Cocke,Public,Cocke,TN
+,Coffee,Public,Coffee,TN
+,Collierville Municipal,Public,Shelby,TN
+,Crockett,Public,Crockett,TN
+,Cumberland,Public,Cumberland,TN
+,Dayton City,Public,Rhea,TN
+,Decatur,Public,Decatur,TN
+,DeKalb,Public,DeKalb,TN
+,Dickson,Public,Dickson,TN
+,Dyer,Public,Dyer,TN
+,Dyersburg City,Public,Dyer,TN
+,Elizabethton City,Public,Carter,TN
+,Etowah City,Public,McMinn,TN
+,Fayette,Public,Fayette,TN
+,Fayetteville City,Public,Lincoln,TN
+,Fentress,Public,Fentress,TN
+,Franklin,Public,Franklin,TN
+,Franklin Special,Public,Williamson,TN
+,Germantown Municipal,Public,Shelby,TN
+,Gibson Special,Public,Gibson,TN
+,Giles,Public,Giles,TN
+,Grainger,Public,Grainger,TN
+,Greene,Public,Greene,TN
+,Greeneville City,Public,Greene,TN
+,Grundy,Public,Grundy,TN
+,Hamblen,Public,Hamblen,TN
+,Hamilton,Public,Hamilton,TN
+,Hancock,Public,Hancock,TN
+,Hardeman,Public,Hardeman,TN
+,Hardin,Public,Hardin,TN
+,Hawkins,Public,Hawkins,TN
+,Haywood,Public,Haywood,TN
+,Henderson,Public,Henderson,TN
+,Henry,Public,Henry,TN
+,Hickman,Public,Hickman,TN
+,Hollow Rock - Bruceton,Public,Carroll,TN
+,Houston,Public,Houston,TN
+,Humboldt Special,Public,Gibson,TN
+,Humphreys,Public,Humphreys,TN
+,Huntingdon Special,Public,Carroll,TN
+,Jackson,Public,Jackson,TN
+,Jackson-Madison,Public,Madison,TN
+,Jefferson,Public,Jefferson,TN
+,Johnson,Public,Johnson,TN
+,Johnson City,Public,Washington,TN
+,Kingsport City,Public,Sullivan,TN
+,Knox,Public,Knox,TN
+,Lake,Public,Lake,TN
+,Lakeland Municipal,Public,Shelby,TN
+,Lauderdale,Public,Lauderdale,TN
+,Lawrence,Public,Lawrence,TN
+,Lebanon Special,Public,Wilson,TN
+,Lenoir City,Public,Loudon,TN
+,Lewis,Public,Lewis,TN
+,Lexington City,Public,Henderson,TN
+,Lincoln,Public,Lincoln,TN
+,Loudon,Public,Loudon,TN
+,Macon,Public,Macon,TN
+,Manchester City,Public,Coffee,TN
+,Marion,Public,Marion,TN
+,Marshall,Public,Marshall,TN
+,Maryville City,Public,Blount,TN
+,Maury,Public,Maury,TN
+,McKenzie Special,Public,Carroll,TN
+,McMinn,Public,McMinn,TN
+,McNairy,Public,McNairy,TN
+,Meigs,Public,Meigs,TN
+,Memphis Shelby,Public,Shelby,TN
+,Metro Nashville,Public,Davidson,TN
+,Milan Special,Public,Gibson,TN
+,Millington Municipal,Public,Shelby,TN
+,Monroe,Public,Monroe,TN
+,Moore,Public,Moore,TN
+,Morgan,Public,Morgan,TN
+,Murfreesboro City,Public,Rutherford,TN
+,Newport City,Public,Cocke,TN
+,Oak Ridge City,Public,Anderson,TN
+,Obion,Public,Obion,TN
+,Oneida Special,Public,Scott,TN
+,Overton,Public,Overson,TN
+,Paris Special,Public,Henry,TN
+,Perry,Public,Perry,TN
+,Pickett,Public,Pickett,TN
+,Polk,Public,Polk,TN
+,Putnam,Public,Putnam,TN
+,Rhea,Public,Rhea,TN
+,Richard City Special,Public,Marion,TN
+,Roane,Public,Roane,TN
+,Robertson,Public,Robertson,TN
+,Rogersville City,Public,Hawkins,TN
+,Rutherford,Public,Rutherford,TN
+,Scott,Public,Scott,TN
+,Sequatchie,Public,Sequatchie,TN
+,Sevier,Public,Sevier,TN
+,Smith,Public,Smith,TN
+,South Carroll Special,Public,Carroll,TN
+,Stewart,Public,Stewart,TN
+,Sullivan,Public,Sullivan,TN
+,Sumner,Public,Sumner,TN
+,Sweetwater City,Public,Monroe,TN
+,Tipton,Public,Tipton,TN
+,TN School for the Blind,Public,Davidson,TN
+,TN School for the Deaf,Public,Davidson,TN
+,Trenton Special,Public,Gibson,TN
+,Trousdale,Public,Trousdale,TN
+,Tullahoma City,Public,Coffee,TN
+,Unicoi,Public,Unicoi,TN
+,Union City,Public,Obion,TN
+,Union,Public,Union,TN
+,Van Buren,Public,Van Buren,TN
+,Warren,Public,Warren,TN
+,Washington,Public,Washington,TN
+,Wayne,Public,Wayne,TN
+,Weakley,Public,Weakley,TN
+,West Carroll Special,Public,Carroll,TN
+,White,Public,White,TN
+,Williamson,Public,Williamson,TN
+,Wilson,Public,Wilson,TN
+,Aurora Collegiate,Charter,NULL,TN
+,Chattanooga School of Excellence,Charter,NULL,TN
+,Compass,Charter,NULL,TN
+,Cornerstone Prep,Charter,NULL,TN
+,Emerald Academy (Knox),Charter,NULL,TN
+,Frayser Community Schools,Charter,NULL,TN
+,Freedom Prep,Charter,NULL,TN
+,Gestalt Community Schools,Charter,NULL,TN
+,Grizzlies Prep,Charter,NULL,TN
+,Green Dot,Charter,NULL,TN
+,Intrepid College Prep,Charter,NULL,TN
+,Kipp Memphis,Charter,NULL,TN
+,Kipp Nashville,Charter,NULL,TN
+,Knowledge Academies Nashville,Charter,NULL,TN
+,Emerald,Charter,NULL,TN
+,Lead Public Schools,Charter,NULL,TN
+,MASE,Charter,NULL,TN
+,Memphis Business Executives,Charter,NULL,TN
+,Memphis School of Excellence,Charter,NULL,TN
+,My Journeys,Charter,NULL,TN
+,Nashville Collegiate,Charter,NULL,TN
+,Power Center Academy,Charter,NULL,TN
+,Promise Academy,Charter,NULL,TN
+,Purpose Prep,Charter,NULL,TN
+,Rocketship,Charter,NULL,TN
+,Republic,Charter,NULL,TN
+,Stem Prep Academy,Charter,NULL,TN
+,Christian Brothers High School,NonPublic,NULL,TN
+,Concord Christian,NonPublic,NULL,TN
+,Donelson Christian,NonPublic,NULL,TN
+,Harding Academy Memphis,NonPublic,NULL,TN
+,Islamic Center of Murfreesboro,NonPublic,NULL,TN
+,Lipscomb Academy,NonPublic,NULL,TN
+,Maryville Christian,NonPublic,NULL,TN
+,Montgomery Bell Academy,NonPublic,NULL,TN
+,Middle TN Christian,NonPublic,NULL,TN
+,Montessori,NonPublic,NULL,TN
+,Signal Mountain Christian,NonPublic,NULL,TN
+,St Francis of Assisi Catholic,NonPublic,NULL,TN
+,Silverdale Baptist Academy,NonPublic,NULL,TN
+,Tyro Christian,NonPublic,NULL,TN
+,APSU,HigherEd,NULL,TN
+,Cabrini,HigherEd,NULL,TN
+,Carson Newman University,HigherEd,NULL,TN
+,Cumberland University,HigherEd,NULL,TN
+,Dickinson State,HigherEd,NULL,TN
+,ETSU,HigherEd,NULL,TN
+,Freed Hardeman,HigherEd,NULL,TN
+,King University,HigherEd,NULL,TN
+,Liberty,HigherEd,NULL,TN
+,Lipscomb University,HigherEd,NULL,TN
+,Milwaukee Area Tech (Wisconsin),HigherEd,NULL,TN
+,Montclair (New Jersey),HigherEd,NULL,TN
+,MTSU,HigherEd,NULL,TN
+,TN State Univ,HigherEd,NULL,TN
+,TN Tech,HigherEd,NULL,TN
+,Trevecca,HigherEd,NULL,TN
+,Charleston Southern,HigherEd,NULL,TN
+,U of Kentucky,HigherEd,NULL,TN
+,U of Louisiana Monroe,HigherEd,NULL,TN
+,U of Memphis,HigherEd,NULL,TN
+,U of Tennessee Knoxville,HigherEd,NULL,TN
+,Vanderbilt,HigherEd,NULL,TN
+,Community Organizer,Agencies,NULL,TN
+,Consultant,Agencies,NULL,TN
+,Diverse Learners Coop,Agencies,NULL,TN
+,Head Start - Sequatchie Valley,Agencies,NULL,TN
+,Independent person,Agencies,NULL,TN
+,iStation software,Agencies,NULL,TN
+,Learning Techniques,Agencies,NULL,TN
+,Legacies Consulting,Agencies,NULL,TN
+,Memphis Teacher Residency (SCS),Agencies,NULL,TN
+,Mid-Cumberland Community Action Agency,Agencies,NULL,TN
+,Noble Education Initiative,Agencies,NULL,TN
+,OUR Educational Cooperative,Agencies,NULL,TN
+,Star Center,Agencies,NULL,TN
+,Teach for America Memphis,Agencies,NULL,TN
+,The Arc,Agencies,NULL,TN
+,TN Board of Regents,Agencies,NULL,TN
+,TN Charter Commission/NCP,Agencies,NULL,TN
+,TN DCS TN Dept of Child Services,Agencies,NULL,TN
+,TN DCS Holston Home,Agencies,NULL,TN
+,TN DCS - Wayne Halfway (Waynesboro),Agencies,NULL,TN
+,TN DCS Youth Villages,Agencies,NULL,TN
+,TDOC TN Dept of Corrections,Agencies,NULL,TN
+,TDOE TN Dept of Ed,Agencies,NULL,TN
+,TN Dept of Labor / Division of Adult Education,Agencies,NULL,TN
+,TN Elec Library,Agencies,NULL,TN
+,TN Higher Ed Commission,Agencies,NULL,TN
+,TN Respite,Agencies,NULL,TN
+,TNTESOL,Agencies,NULL,TN
+,TPT (Teachers Paying Teachers),Agencies,NULL,TN
+,TSCA TN School Counselors Association,Agencies,NULL,TN
+,Vendor - Bridgeview Education,Agencies,NULL,TN
+,Vendor - CERTS,Agencies,NULL,TN
+,Youth Opportunity,Agencies,NULL,TN
+,Dyslexia Therapist,OutOfState,NULL,AZ
+,Greene county tech,OutOfState,NULL,AR
+, Lighthouse Academy,OutOfState,NULL,AR
+,Marion,OutOfState,NULL,AR
+,Pine Bluff,OutOfState,NULL,AR
+,CA,OutOfState,NULL,CA
+,Hollister,OutOfState,NULL,CA
+,Paso Robles USD,OutOfState,NULL,CA
+,Rocketship Public Schools,OutOfState,NULL,CA
+,Santa Rosa,OutOfState,NULL,CA
+,Connecticut,OutOfState,NULL,CT
+,DC Public Schools,OutOfState,NULL,DC
+,Wilmington,OutOfState,NULL,DE
+,Broward,OutOfState,NULL,FL
+,Lee,OutOfState,NULL,FL
+,Miami Dade,OutOfState,NULL,FL
+,Pinecrest Lakes Academy,OutOfState,NULL,FL
+,Murray,OutOfState,NULL,GA
+,GA DOE,OutOfState,NULL,GA
+,Atlanta Public schools,OutOfState,NULL,GA
+,Bryan,OutOfState,NULL,GA
+,Davenport Schools,OutOfState,NULL,IA
+,Guthrie Center,OutOfState,NULL,IA
+,Briggs,OutOfState,NULL,ID
+,Chicago Public Schools,OutOfState,NULL,IL
+,Homer 33C,OutOfState,NULL,IL
+,Oswego Community,OutOfState,NULL,IL
+,Princeville,OutOfState,NULL,IL
+,Olathe Public Schools,OutOfState,NULL,KS
+,Kentucky,OutOfState,NULL,KY
+,Bowling Green Independent,OutOfState,NULL,KY
+,Hoosac,OutOfState,NULL,MA
+,Fairhaven,OutOfState,NULL,MA
+,Carroll County Public,OutOfState,NULL,MD
+,Baltimore Torah Institut,OutOfState,NULL,MD
+,Boothbay Harbor,OutOfState,NULL,ME
+,Grand Haven Area Public School,OutOfState,NULL,MI
+,Parkhill School District,OutOfState,NULL,MO
+,Desoto County,OutOfState,NULL,MS
+,Madison County,OutOfState,NULL,MS
+,Charlotte Mecklenburg,OutOfState,NULL,NC
+,Davidson,OutOfState,NULL,NC
+,Lincoln County Schools,OutOfState,NULL,NC
+,Wake County Pub Schools,OutOfState,NULL,NC
+,Conval School District,OutOfState,NULL,NH
+,Plymouth,OutOfState,NULL,NH
+,Jefferson Township,OutOfState,NULL,NJ
+,Summit Public Schools,OutOfState,NULL,NJ
+,Roswell Independent,OutOfState,NULL,NM
+,Clark County,OutOfState,NULL,NV
+,Alexander CSD,OutOfState,NULL,NY
+,Hackensack,OutOfState,NULL,NY
+,Longwood Central School District,OutOfState,NULL,NY
+,Alexander,OutOfState,NULL,OH
+,Consultant,OutOfState,NULL,OH
+,Lancaster City,OutOfState,NULL,OH
+,Ed Service Center of NE Ohio,OutOfState,NULL,OH
+,OH Dept of Ed,OutOfState,NULL,OH
+,Ohio SST 15,OutOfState,NULL,OH
+,SST Region 3 Ohio,OutOfState,NULL,OH
+,Shaker Heights Ohio,OutOfState,NULL,OH
+,Youngstown City Schools,OutOfState,NULL,OH
+,Ohio,OutOfState,NULL,OH
+,Jenks PS,OutOfState,NULL,OK
+,Oklahoma,OutOfState,NULL,OK
+,"Portland, OR",OutOfState,NULL,OR
+,Allegheny,OutOfState,NULL,PA
+,East Allegheny,OutOfState,NULL,PA
+,Philadelphia,OutOfState,NULL,PA
+,Columbia Cross Roads,OutOfState,NULL,PA
+,Homestead,OutOfState,NULL,PA
+,Luzerne,OutOfState,NULL,PA
+,Susquehanna,OutOfState,NULL,PA
+,Pennsylvania,OutOfState,NULL,PA
+,South Carolina,OutOfState,NULL,SC
+,SD Dept of Ed,OutOfState,NULL,SD
+,Garland,OutOfState,NULL,TX
+,Boerne ISD,OutOfState,NULL,TX
+,Copperas Cove ISD,OutOfState,NULL,TX
+,Fairfax County Public Schools,OutOfState,NULL,VA
+,Fairfax EAS,OutOfState,NULL,VA
+,Virginia Beach Schools,OutOfState,NULL,VA
+,Lynchburg,OutOfState,NULL,VA
+,Lake Stevens School District,OutOfState,NULL,WA
+,Anacortes,OutOfState,NULL,WA
+,NWESD 189,OutOfState,NULL,WA
+,Ridgefield,OutOfState,NULL,WA
+,Altoona,OutOfState,NULL,WI
+,Milwaukee,OutOfState,NULL,WI
